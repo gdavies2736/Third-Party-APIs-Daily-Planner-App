@@ -18,7 +18,11 @@ The image below shows how the calendar looks when the user first lands on the sc
 
 The application uses the Day.js library to display the date at the top of the daily scheduler in the month, date, year.
 
+
+
 ![image](https://github.com/gdavies2736/Third-Party-APIs-Daily-Planner-App/assets/89836987/1d92eaae-1de5-4c26-9a71-027488260bcb)
+
+
 
 
 
@@ -26,10 +30,18 @@ The application uses the Day.js library to display the date at the top of the da
 
 The image below shows how the page will look once information has been entered into the daily scheduler. 
 
+
+
+
 ![image](https://github.com/gdavies2736/Third-Party-APIs-Daily-Planner-App/assets/89836987/5cb62a0d-3b32-4b6a-a205-e07d66c87ea3)
 
 
+
+
+
 2. Issues
+
+
 
 The biggest challenge was getting used to the jQuery code and understanding how to apply it. 
 It took a while to understand how to code the function to allow the colour coding of the scheduler for past, present and future dates. Whilst I understood that an if else statement could work here, it took time and support to understand how to code this. 
@@ -42,7 +54,9 @@ Additionally, there was an issue with clicking on the icon and it not responding
 <br>
 
 
+
 3. Usage
+
 
 This project may be useful for those learning Javascript concepts including: 
 1. Pseudo coding 
@@ -50,7 +64,6 @@ This project may be useful for those learning Javascript concepts including: 
 3. If / else statements 
 4. Functions 
 5. jQuery
-
 6. Targeting parent/sibling elements.
 
 
@@ -58,22 +71,39 @@ To access this project, the deployed website can be viewed at:
 
 https://gdavies2736.github.io/Third-Party-APIs-Daily-Planner-App
 
+
+
+
 <br>
 
+
+
+
 4. Installation
+
+   
 No Installation necessary.
+
+
 
 <br>
 
 5. Credits
+
+   
 I was supported to complete this task by the EdX Front End Development Bootcamp Tutors and teaching staff and am grateful for their support and encouragement. 
 I used the following additional resources for support. 
 1. Freecodecamp - https://www.freecodecamp.org 
 2. W3Schools - https://www.w3schools.com/ 
 3. Mimo application - https://mimo.org/
 
+
 <br>
 
+
+
 6. License
+
+   
 MIT License. Details can be found in the repository under license.
 
