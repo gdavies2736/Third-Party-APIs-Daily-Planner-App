@@ -31,6 +31,8 @@ else {
 
 //Save button event listener
 //Save data to local storage
+//retrieve data from local storage by using a for loop to loop through times and target the description
+//area around save icon to save information to local storage
 
 $(".saveBtn").on("click", function(event){
 var value;
