@@ -46,7 +46,7 @@ The image below shows how the page will look once information has been entered i
 The biggest challenge was getting used to the jQuery code and understanding how to apply it. 
 It took a while to understand how to code the function to allow the colour coding of the scheduler for past, present and future dates. Whilst I understood that an if else statement could work here, it took time and support to understand how to code this. 
 
-I also found setting and getting information to the local storage quite challenging and read a lot of documentation online. 
+I also found setting and getting information to and from the local storage quite challenging and read a lot of documentation online to understand this in more detail. 
 
 Additionally, there was an issue with clicking on the icon and it not responding to the save function. Again this took time and support to work through how to target sibling and parent elements in order to resolve this issue of allowing the icon to act as a save function. 
 
