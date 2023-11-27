@@ -14,7 +14,7 @@
 
 This project involved creating a browser based daily calendar application that allows a user to insert events into the scheduler between the hours of 9am and 5pm. When the user inserts information into the scheduler by typing into the free text box in the center, the HTML and CSS will dynamically update. It is powered by jQuery and uses local storage to store the information that the user enters into the daily scheduler. 
 
-The image below shows how the calendar looks when the user first lands on the scheduler screen. The calendar only displays the time on the left, and the user has the option to enter information. They can then save the information by clicking on the save icon on the right of the screen. If the user clicks save, when the browsers reloads, the information will remain in the daily scheduler. 
+The image below shows how the calendar looks when the user first lands on the scheduler screen. The calendar only displays the time on the left, and the user has the option to enter information. They can then save the information by clicking on the save icon on the right of the screen. If the user clicks save, when the browsers reloads, the information will remain in the daily scheduler. At the time of taking these screen shots, all times are in the past and are therefore in the same colour. 
 
 The application uses the Day.js library to display the date at the top of the daily scheduler in the month, date, year.
 
